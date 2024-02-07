@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <TabMenu />
-  </div>
+  <TabMenu />
+  <router-view />
 </template>
 
 <script setup>
